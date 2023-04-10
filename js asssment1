@@ -1,0 +1,16 @@
+let eating=("meat","beans,");
+return(eating);
+
+
+let num=[2,8,0,23,5,45,76];
+let num1;(num1.length-1);
+console.log(num1);
+
+let years=[2000,2004,2008,2016,2020];
+let years1;(years1.length/2);
+console.log(years1);
+
+let nums=[0,100]
+let nums1=(nums.length/3);
+let nums2=(num.length/5);
+console.log(nums1,nums2);
